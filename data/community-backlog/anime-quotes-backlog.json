@@ -177,7 +177,10 @@
     "english": "But... that's what I like.",
     "anime": "JoJo's Bizarre Adventure: Diamond is Unbreakable",
     "character": "Yoshikage Kira",
-    "issued": true
+    "issued": true,
+    "completed": true,
+    "completedBy": "YakVash",
+    "completedPR": 2858
   },
   {
     "id": 17,
@@ -253,7 +256,10 @@
     "english": "Dance to my beautiful technique!",
     "anime": "The Prince of Tennis",
     "character": "Keigo Atobe",
-    "issued": true
+    "issued": true,
+    "completed": true,
+    "completedBy": "arushi-punhani",
+    "completedPR": 2877
   },
   {
     "id": 24,
@@ -310,7 +316,7 @@
     "english": "Fosh fosh fosh fosh.",
     "anime": "One Piece",
     "character": "Kozuki Sukiyaki",
-    "issued": false
+    "issued": true
   },
   {
     "id": 29,
@@ -364,7 +370,7 @@
     "english": "I never give up, believe it!",
     "anime": "Naruto",
     "character": "Naruto Uzumaki",
-    "issued": false
+    "issued": true
   },
   {
     "id": 34,
@@ -373,7 +379,7 @@
     "english": "Those who don't take care of their comrades are worse than scum.",
     "anime": "Naruto",
     "character": "Kakashi Hatake",
-    "issued": false
+    "issued": true
   },
   {
     "id": 35,
@@ -382,7 +388,10 @@
     "english": "A lesson without pain is meaningless.",
     "anime": "Fullmetal Alchemist: Brotherhood",
     "character": "Edward Elric",
-    "issued": false
+    "issued": true,
+    "completed": true,
+    "completedBy": "wicked2112",
+    "completedPR": 2927
   },
   {
     "id": 36,
@@ -391,7 +400,10 @@
     "english": "I'll exterminate them! Every last one from this world!",
     "anime": "Attack on Titan",
     "character": "Eren Yeager",
-    "issued": false
+    "issued": true,
+    "completed": true,
+    "completedBy": "khaoticvs",
+    "completedPR": 2949
   },
   {
     "id": 37,
@@ -400,7 +412,7 @@
     "english": "Don't let anyone else take control of your life and death!",
     "anime": "Demon Slayer: Kimetsu no Yaiba",
     "character": "Tanjiro Kamado",
-    "issued": false
+    "issued": true
   },
   {
     "id": 38,
@@ -409,7 +421,7 @@
     "english": "Go beyond! Plus Ultra!",
     "anime": "My Hero Academia",
     "character": "All Might",
-    "issued": false
+    "issued": true
   },
   {
     "id": 39,
@@ -418,7 +430,10 @@
     "english": "Relax, I'm the strongest.",
     "anime": "Jujutsu Kaisen",
     "character": "Satoru Gojo",
-    "issued": false
+    "issued": true,
+    "completed": true,
+    "completedBy": "YakVash",
+    "completedPR": 3008
   },
   {
     "id": 40,
@@ -427,7 +442,7 @@
     "english": "All I want is to live a normal life.",
     "anime": "Chainsaw Man",
     "character": "Denji",
-    "issued": false
+    "issued": true
   },
   {
     "id": 41,
@@ -436,7 +451,7 @@
     "english": "In the name of the moon, I'll punish you!",
     "anime": "Sailor Moon",
     "character": "Usagi Tsukino",
-    "issued": false
+    "issued": true
   },
   {
     "id": 42,
@@ -445,7 +460,7 @@
     "english": "I'm just a hero for fun.",
     "anime": "One Punch Man",
     "character": "Saitama",
-    "issued": false
+    "issued": true
   },
   {
     "id": 43,

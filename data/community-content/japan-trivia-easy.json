@@ -87,7 +87,6 @@
   "correctIndex": 0
   },
   {
-content/add-trivia-question-fuji
     "question": "Which mountain is Japan’s highest peak?",
     "difficulty": "easy",
     "answers": [
@@ -95,7 +94,10 @@ content/add-trivia-question-fuji
       "Mount Kita",
       "Mount Tate",
       "Mount Haku"
-
+    ],
+    "correctIndex": 0
+  },
+  {
     "question": "What is the Japanese term for a traditional inn?",
     "difficulty": "easy",
     "answers": [
@@ -103,8 +105,18 @@ content/add-trivia-question-fuji
       "Minshuku",
       "Izakaya",
       "Yatai"
-main
     ],
     "correctIndex": 0
-  }
+  },
+  {
+  "question": "Which city is known for its beef brand Kobe?",
+  "difficulty": "easy",
+  "answers": [
+    "Kobe",
+    "Nagoya",
+    "Kanazawa",
+    "Hiroshima"
+  ],
+  "correctIndex": 0
+}
 ]
